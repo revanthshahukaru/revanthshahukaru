@@ -11,7 +11,7 @@ Data Scientist Enthusiast
 I've been learning programming since 2 years. The technologies I concentrated on are Data Science and Machine Learning. During this process, I taught myself various Languages, technologies and skills like Python, Numpy and Pandas, PostgreSQL, and still am learning to gain required skills. Other than the afore-mentioned skills and technologies, I also learned Java out of interest. When I first started learning programming, the field I was most interested was Web Development. In fact, the first language I learned when starting out was Javascript along with HTML and CSS.
 
 *   🌍  I'm based in India
-*   ✉️  You can contact me at [shahukarurevanth@gmail.com](mailto:shahukarurevanth@gmail.com)
+*   ✉️  You can contact me at [rshahukaru@gmail.com](mailto:rshahukaru@gmail.com)
 ### Skills<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
