@@ -8,7 +8,7 @@ Hi 👋 My name is Revanth Shahukaru
 Data Scientist Enthusiast
 -------------------------
 
-I've been learning programming since 2 years. The technologies I concentrated on are Data Science and Machine Learning. During this process, I taught myself various Languages, technologies and skills like Python, Numpy and Pandas, PostgreSQL, and still am learning to gain required skills. Other than the afore mentioned skills and technologies, I also learned Java out of interest. When I first started learning programming, the field I was most interested was Web Development. In fact, the first language I learned when starting out was Javascript along with HTML and CSS.
+I've been learning programming since 2 years. The technologies I concentrated on are Data Science and Machine Learning. During this process, I taught myself various Languages, technologies and skills like Python, Numpy and Pandas, PostgreSQL, and still am learning to gain required skills. Other than the afore-mentioned skills and technologies, I also learned Java out of interest. When I first started learning programming, the field I was most interested was Web Development. In fact, the first language I learned when starting out was Javascript along with HTML and CSS.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [shahukarurevanth@gmail.com](mailto:shahukarurevanth@gmail.com)
