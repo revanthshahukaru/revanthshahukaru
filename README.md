@@ -5,10 +5,10 @@
 Hi 👋 My name is Revanth Shahukaru
 ==================================
 
-Data Scientist Enthusiast
+Data Science Enthusiast
 -------------------------
 
-I've been learning programming since 2 years. The technologies I concentrated on are Data Science and Machine Learning. During this process, I taught myself various Languages, technologies and skills like Python, Numpy and Pandas, PostgreSQL, and still am learning to gain required skills. Other than the afore-mentioned skills and technologies, I also learned Java out of interest. When I first started learning programming, the field I was most interested was Web Development. In fact, the first language I learned when starting out was Javascript along with HTML and CSS.
+I've been learning programming since 2 years. The technologies I concentrate on are Data Science and Machine Learning. During this process, I taught myself various Languages, technologies and skills like Python, Numpy and Pandas, PostgreSQL, and still am learning to gain required skills. Other than the afore-mentioned skills and technologies, I also learned Java out of interest. When I first started learning programming, the field I was most interested was Web Development. In fact, the first language I learned when starting out was Javascript along with HTML and CSS.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [rshahukaru11@gmail.com](mailto:rshahukaru11@gmail.com)
@@ -32,4 +32,4 @@ I've been learning programming since 2 years. The technologies I concentrated on
 
 <a href="https://www.github.com/revanthismyname" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-<a href="https://www.linkedin.com/in/revanth-shahukaru-542060225/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="www.linkedin.com/in/revanth-shahukaru/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
