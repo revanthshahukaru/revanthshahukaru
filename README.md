@@ -38,8 +38,10 @@ Hi 👋 My name is Revanth Shahukaru
   <!-- Common Icons -->
   <img src="https://skillicons.dev/icons?i=python,postgresql,aws,azure,pytorch,tensorflow,docker,git,github" height="40" />
 
+
+
   <!-- Custom Additions -->
-  <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow_square.png" height="40" alt="Airflow" />
+  <img src="https://www.vhv.rs/viewpic/hmRwhmR_apache-airflow-documentation-airflow-documentation-apache-airflow-logo/#" height="40" alt="Airflow" />
   <img src="https://docs.getdbt.com/img/dbt-logo-full.svg" height="40" alt="dbt" />
   <img src="https://seeklogo.com/images/S/snowflake-logo-B9D6E3B99E-seeklogo.com.png" height="40" alt="Snowflake" />
   <img src="https://raw.githubusercontent.com/nltk/nltk.github.com/master/images/logos/nltk-logo.png" height="40" alt="NLTK" />
