@@ -14,13 +14,13 @@ Hi 👋 My name is Revanth Shahukaru
 - Cloud tools (AWS, GCP), Streamlit apps, and end-to-end data workflows
 
 💡 Recent projects:
-- YouTube–Reddit Trend Sentiment Analysis
+- **YouTube–Reddit Trend Sentiment Analysis**  
   Extracted public sentiment on trending topics using YouTube API, Reddit (PRAW), VADER, and GPT-4 for summarization. Integrated LLMs and emoji-based sentiment indicators to produce actionable insights.
 
-- AI-Powered GenAI Travel Assistant
+- **AI-Powered GenAI Travel Assistant**  
   Built a multilingual itinerary + emergency support app using Streamlit, Whisper-1, ChromaDB, and LangChain. Implemented RAG for dynamic query resolution and optimized voice translation for real-time usage.
 
-- Amazon Food Reviews Sentiment Classifier
+- **Amazon Food Reviews Sentiment Classifier**  
   Trained SVM and logistic regression models on 500K+ reviews using TF-IDF, bigrams/trigrams, and stratified sampling. Handled large-scale text data via batch processing for reliable NLP
  modeling.
 
